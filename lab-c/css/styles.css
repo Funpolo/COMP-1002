@@ -5,6 +5,8 @@ h1 {
 
 	background-color: red;
 	text-transform: capitalize;
+	background-color: yellow;
+	text-decoration: underline black;
 
 }
 
@@ -14,12 +16,16 @@ body {
 	min-width: 768px;
 	max-width: 1024px;
 	background-color: aqua;
+	background-color: yellow;
+	text-decoration: underline black;
 }
 /* Arrange the SECTION and the ASIDE elements side-by-side in columns */
 main {
 	display: flex;
 	flex-direction: row;
 	background-color: white;
+	background-color: yellow;
+	text-decoration: underline black;
 }
 /* Make the SECTION column a bit wider than the ASIDE column */
 main section {
