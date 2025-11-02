@@ -3,7 +3,7 @@
 /* STEP 2: TYPE/ELEMENT Selector - Create a selector that targets the HTML element, with a rule that sets the background-color to 'lightskyblue' */
 h1 {
 
-	background-color: lightskyblue;
+	background-color: red;
 	text-transform: capitalize;
 }
 
