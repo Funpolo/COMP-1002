@@ -15,8 +15,8 @@ body {
 }
 /* Arrange the SECTION and the ASIDE elements side-by-side in columns */
 main {
-	display: flex;
-	flex-direction: row;
+	display: table-row;
+	flex-direction: column;
 	background-color: white;
 }
 /* Make the SECTION column a bit wider than the ASIDE column */
