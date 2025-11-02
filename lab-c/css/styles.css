@@ -4,6 +4,7 @@
 h1 {
 
 	background-color: lightskyblue;
+	text-transform: capitalize;
 }
 
 body {
