@@ -1,7 +1,10 @@
 @charset "UTF-8";
 
 /* STEP 2: TYPE/ELEMENT Selector - Create a selector that targets the HTML element, with a rule that sets the background-color to 'lightskyblue' */
+h1 {
 
+	background-color: lightskyblue;
+}
 
 body {
 	font-family: Tahoma, Verdana, sans-serif;
