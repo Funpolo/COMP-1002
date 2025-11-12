@@ -1,0 +1,27 @@
+/* Make the body take the full height of the viewport */
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ffe5b4;/* optional pizza-like color */
+    background-image: linear-gradient(45deg, red, orange, yellow); /*https://www.youtube.com/watch?v=NINIuzyWZ2c*/
+}
+
+
+
+/* Optional: style the button */
+button {
+    padding: 10px 20px; 
+    font-size: 1.2em;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: tomato;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(169, 16, 16);
+}
